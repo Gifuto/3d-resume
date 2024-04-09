@@ -15,15 +15,13 @@ import {
     git,
     figma,
     vitejs,
-    devair,
-    startup,
+    fixIQ,
+    wdhConsulting,
     dalle,
-    jobit,
+    animeSearcher,
     tripguide,
+    travelApp,
     threejs,
-    jobs,
-    musk,
-    durov
   } from "../assets";
   
   export const navLinks = [
@@ -117,59 +115,32 @@ import {
   
   const experiences = [
     {
-      title: "JS Developer",
-      company_name: "Startup",
-      icon: startup,
-      iconBg: "#E6DEDD",
-      date: "March 2020 - April 2021",
+      title: "Frontend Developer",
+      company_name: "WDH consulting",
+      icon: wdhConsulting,
+      iconBg: "#50ad20",
+      date: "Apr 2023 - Present",
       points: [
-        "Planned website development, converting mockups into usable web presence with vanilla JavaScript.",
-        "Applied knowledge of JavaScript and Object-Oriented Programming to create successful designs.",
-        "Designed, implemented and monitored web pages, plugins and functionality for continuous improvement.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Validated third-party code to comply with internal standards and technical requirements.",
+        "Developed and maintained responsive web applications using Next.js.", 
+        "Implemented theme changes with SCSS.",
+        "Introduced tailwind CSS for faster design implementation.",
+        "Participated in code reviews to maintain code quality, optimized performance, and shared best practices.",
+        "Conducted code reviews, provided constructive feedback to other developers to ensure code quality and best practices.",
       ],
     },
     {
-      title: "React Developer",
-      company_name: "Devair",
-      icon: devair,
-      iconBg: "#020617",
-      date: "Jan 2023 - Present",
+      title: "Frontend Developer",
+      company_name: "fixIQ",
+      icon: fixIQ,
+      iconBg: "#ffff",
+      date: "Feb 2022 - Apr 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Employed TypeScript and other technology to make line-code repairs and optimize corporate presence.",
-        "Multi-tasked across multiple functions and roles to meet deadlines and organizational expectations.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and maintained web applications on React + TypeScript.",
+        "Implemented Redux Toolkit instead of vanilla Redux.",
+        "Used styled-components to create components.",
+        "Interacted with a team of developers and designers to create high-quality software solutions.",
+        "Integrated Redux, Redux Saga, Axios, as well as third-party libraries to extend the functionality of large web applications for a better user experience.",
       ],
-    },
-  ];
-  
-  const testimonials = [
-    {
-      testimonial:
-        "Bogdan does magic as a developer.",
-      name: "Pavel Durov",
-      designation: "CEO",
-      company: "Telegram",
-      image: durov,
-    },
-    {
-      testimonial:
-        "I have never met a web developer cooler than Bogdan.",
-      name: "Elon Musk",
-      designation: "CEO",
-      company: "Tesla",
-      image: musk,
-    },
-    {
-      testimonial:
-        "If I were alive I would take him to my team!",
-      name: "Steve Jobs",
-      designation: "CEO",
-      company: "Apple",
-      image: jobs,
     },
   ];
   
@@ -196,7 +167,7 @@ import {
       source_code_link: "https://github.com/Gifuto/dall-e",
     },
     {
-      name: "Job IT",
+      name: "Anime Searcher",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -209,15 +180,15 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: animeSearcher,
+      source_code_link: "https://gifuto.github.io/anime-searcher/",
     },
     {
-      name: "Trip Guide",
+      name: "Travel App",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -234,9 +205,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: travelApp,
+      source_code_link: "https://github.com/Gifuto/travel-app",
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects };

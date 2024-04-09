@@ -21,8 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import devair from "./company/devair.png";
-import startup from "./company/startup.png";
+import wdhConsulting from "./company/wdhConsulting.png";
+import fixIQ from "./company/fixiqIQ.png"
 
 import jobs from "./jobs.jpg"
 import musk from "./musk.jpg"
@@ -31,6 +31,8 @@ import durov from "./durov.jpg"
 import dalle from "./dalle.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import travelApp from "./travelApp.png"
+import animeSearcher from "./animeSearcher.png"
 
 export {
   logo,
@@ -54,11 +56,13 @@ export {
   tailwind,
   typescript,
   threejs,
-  devair,
-  startup,
+  wdhConsulting,
+  fixIQ,
   dalle,
+  animeSearcher,
   jobit,
   tripguide,
+  travelApp,
   jobs,
   musk,
   durov,
