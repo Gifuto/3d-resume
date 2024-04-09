@@ -197,11 +197,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "framer-motion",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
