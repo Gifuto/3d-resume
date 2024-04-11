@@ -169,7 +169,7 @@ import {
     {
       name: "Anime Searcher",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A web application that allows users to search for available anime and view more detailed information about them, such as ratings, studio, description, and trailer.",
       tags: [
         {
           name: "react",
