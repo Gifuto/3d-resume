@@ -219,6 +219,27 @@ import {
       image: travelApp,
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
+      {
+          name: "Anime Searcher",
+          description:
+              "A web application that allows users to search for available anime and view more detailed information about them, such as ratings, studio, description, and trailer.",
+          tags: [
+              {
+                  name: "react",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "restapi",
+                  color: "green-text-gradient",
+              },
+              {
+                  name: "tailwind",
+                  color: "pink-text-gradient",
+              },
+          ],
+          image: animeSearcher,
+          source_code_link: "https://github.com/Gifuto/anime-searcher",
+      },
   ];
   
   export { services, technologies, experiences, projects };
