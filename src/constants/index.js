@@ -22,7 +22,7 @@ import {
     animeSearcher,
     tripguide,
     travelApp,
-    threejs, stickerSmash,
+    threejs, stickerSmash, particles,
 } from "../assets";
   
   export const navLinks = [
