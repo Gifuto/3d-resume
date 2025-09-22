@@ -35,6 +35,7 @@ import tripguide from "./tripguide.png";
 import stickerSmash from "./stickerSmash.jpg";
 import travelApp from "./travelApp.png"
 import animeSearcher from "./animeSearcher.png"
+import particles from "./particles.png"
 
 export {
   logo,
