@@ -27,6 +27,7 @@ import {
     particles,
     galaxyGenerator,
     scrollBasedAnimation,
+    physics,
 } from "../assets";
   
   export const navLinks = [
