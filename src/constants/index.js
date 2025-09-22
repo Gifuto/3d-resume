@@ -199,27 +199,6 @@ import {
       source_code_link: "https://github.com/Gifuto/dall-e",
     },
     {
-      name: "Anime Searcher",
-      description:
-        "A web application that allows users to search for available anime and view more detailed information about them, such as ratings, studio, description, and trailer.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: animeSearcher,
-      source_code_link: "https://gifuto.github.io/anime-searcher/",
-    },
-    {
       name: "Travel App",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
