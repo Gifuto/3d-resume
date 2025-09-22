@@ -150,11 +150,11 @@ import {
       iconBg: "#ffff",
       date: "Feb 2022 - Apr 2023",
       points: [
-        "Developed and maintained web applications on React + TypeScript.",
+        "Reduced API load and improved performance by caching key data in localStorage.",
         "Implemented Redux Toolkit instead of vanilla Redux.",
-        "Used styled-components to create components.",
         "Interacted with a team of developers and designers to create high-quality software solutions.",
-        "Integrated Redux, Redux Saga, Axios, as well as third-party libraries to extend the functionality of large web applications for a better user experience.",
+        "Collaborated with testers for comprehensive testing and debugging to identify and fix issues for optimal performance.",
+        "Participated in the improvement of development processes and workflow.",
       ],
     },
   ];
