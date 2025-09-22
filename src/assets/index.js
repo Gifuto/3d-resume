@@ -74,6 +74,7 @@ export {
   particles,
   galaxyGenerator,
   scrollBasedAnimation,
+  physics,
   jobs,
   musk,
   durov,
