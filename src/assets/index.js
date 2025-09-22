@@ -32,6 +32,7 @@ import durov from "./durov.jpg"
 import dalle from "./dalle.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import stickerSmash from "./stickerSmash.jpg";
 import travelApp from "./travelApp.png"
 import animeSearcher from "./animeSearcher.png"
 
