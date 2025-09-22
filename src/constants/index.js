@@ -220,6 +220,23 @@ import {
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
       {
+          name: "Particles",
+          description:
+              "A browser-based visual experience powered by Three.js that generates and animates particles in real time. It can be used as an interactive background.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: particles,
+          source_code_link: "https://github.com/Gifuto/particles",
+      },
+      {
           name: "Anime Searcher",
           description:
               "A web application that allows users to search for available anime and view more detailed information about them, such as ratings, studio, description, and trailer.",
