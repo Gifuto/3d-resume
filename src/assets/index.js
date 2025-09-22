@@ -70,6 +70,7 @@ export {
   tripguide,
   travelApp,
   particles,
+  galaxyGenerator,
   jobs,
   musk,
   durov,
