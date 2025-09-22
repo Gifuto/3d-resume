@@ -224,6 +224,23 @@ import {
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
       {
+          name: "Scroll Animation",
+          description:
+              "A visually rich scroll-driven animation project that transforms static web pages into immersive, interactive experiences. As the user scrolls, 2D and 3D elements animate.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: scrollBasedAnimation,
+          source_code_link: "https://github.com/Gifuto/scroll-based-animation",
+      },
+      {
           name: "Galaxy Generator",
           description:
               "A procedural Galaxy Generator built with Three.js that creates stunning spiral galaxies made up of thousands (or millions) of particles.",
