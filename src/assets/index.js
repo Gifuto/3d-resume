@@ -63,6 +63,7 @@ export {
   fixIQ,
   dalle,
   animeSearcher,
+  stickerSmash,
   jobit,
   tripguide,
   travelApp,
