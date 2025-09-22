@@ -75,6 +75,7 @@ export {
   particles,
   galaxyGenerator,
   scrollBasedAnimation,
+  importedModels,
   physics,
   jobs,
   musk,
