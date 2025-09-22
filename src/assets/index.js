@@ -79,6 +79,7 @@ export {
   scrollBasedAnimation,
   importedModels,
   ragingSea,
+  animatedGalaxy,
   physics,
   jobs,
   musk,
