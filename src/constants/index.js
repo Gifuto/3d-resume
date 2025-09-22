@@ -26,6 +26,7 @@ import {
     stickerSmash,
     particles,
     galaxyGenerator,
+    scrollBasedAnimation,
 } from "../assets";
   
   export const navLinks = [
