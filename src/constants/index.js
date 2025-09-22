@@ -167,6 +167,23 @@ import {
   
   const projects = [
       {
+          name: "Raging Sea",
+          description:
+              "A real-time ocean simulation rendered in the browser using Three.js and custom shaders. It creates a dynamic, raging sea with waves, foam, reflections, and interactive controls.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: ragingSea,
+          source_code_link: "https://github.com/Gifuto/raging-sea",
+      },
+      {
       name: "Dall-e",
       description:
         "A web platform that allows users to search, generate and post high-quality images based on English text descriptions using OpenAI.",
