@@ -21,6 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import treedis from "./company/treedis.png";
 import wdhConsulting from "./company/wdhConsulting.png";
 import fixIQ from "./company/fixiqIQ.png"
 
@@ -56,6 +57,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  treedis,
   wdhConsulting,
   fixIQ,
   dalle,
