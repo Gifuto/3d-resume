@@ -40,6 +40,7 @@ import galaxyGenerator from "./galaxyGenerator.png"
 import scrollBasedAnimation from "./scrollBasedAnimation.png"
 import physics from "./physics.png"
 import importedModels from "./importedModels.gif"
+import ragingSea from "./ragingSea.gif"
 
 export {
   logo,
