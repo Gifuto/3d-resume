@@ -136,11 +136,11 @@ import {
       iconBg: "#50ad20",
       date: "Apr 2023 - June 2024",
       points: [
-        "Developed and maintained responsive web applications using Next.js.", 
-        "Implemented theme changes with SCSS.",
-        "Introduced tailwind CSS for faster design implementation.",
-        "Participated in code reviews to maintain code quality, optimized performance, and shared best practices.",
-        "Conducted code reviews, provided constructive feedback to other developers to ensure code quality and best practices.",
+        "Built interactive 3D features using Three.js, enhancing user engagement through advanced visualization.",
+        "Developed dynamic, validated forms to streamline user input and data collection.",
+        "Optimized lazy loading of media assets (images & videos) using react-intersection-observer, improving initial page load times.",
+        "Developed intuitive drag-and-drop functionality with persistent layout state for customizable UI components.",
+        "Enabled support for custom user styles, increasing flexibility and personalization of the application.",
       ],
     },
     {
