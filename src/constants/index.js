@@ -223,6 +223,23 @@ import {
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
       {
+          name: "Galaxy Generator",
+          description:
+              "A procedural Galaxy Generator built with Three.js that creates stunning spiral galaxies made up of thousands (or millions) of particles.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: galaxyGenerator,
+          source_code_link: "https://github.com/Gifuto/galaxy-generator",
+      },
+      {
           name: "Particles",
           description:
               "A browser-based visual experience powered by Three.js that generates and animates particles in real time. It can be used as an interactive background.",
