@@ -257,7 +257,7 @@ import {
               },
           ],
           image: physics,
-          source_code_link: "https://github.com/Gifuto/scroll-based-animation",
+          source_code_link: "https://github.com/Gifuto/physics",
       },
       {
           name: "Scroll Animation",
