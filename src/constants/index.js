@@ -17,6 +17,7 @@ import {
     vitejs,
     fixIQ,
     wdhConsulting,
+    treedis,
     dalle,
     animeSearcher,
     tripguide,
