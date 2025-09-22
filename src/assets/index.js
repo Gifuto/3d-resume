@@ -72,6 +72,7 @@ export {
   travelApp,
   particles,
   galaxyGenerator,
+  scrollBasedAnimation,
   jobs,
   musk,
   durov,
