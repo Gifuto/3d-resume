@@ -226,6 +226,23 @@ import {
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
       {
+          name: "Imported Models",
+          description:
+              "A 3D experience that loads and displays imported models (like .glTF, .glb, or .obj files) into a browser scene. Users can view, manipulate, and interact with models.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: importedModels,
+          source_code_link: "https://github.com/Gifuto/imported-models",
+      },
+      {
           name: "Physics",
           description:
               "A real-time, interactive physics simulation project that brings virtual objects to life using gravity, collisions, springs, and forces. Perfect for games, or interactive art.",
