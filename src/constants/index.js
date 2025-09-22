@@ -160,7 +160,24 @@ import {
   ];
   
   const projects = [
-    {
+      {
+          name: "Sticker Smash",
+          description:
+            "A mobile app built with React Native that makes it delightfully easy for anyone to decorate their photos with stickers, quickly share them, and save polished edits.",
+          tags: [
+            {
+              name: "react-native",
+              color: "blue-text-gradient",
+            },
+            {
+              name: "expo",
+              color: "green-text-gradient",
+            },
+          ],
+          image: stickerSmash,
+          source_code_link: "https://github.com/Gifuto/sticker-smash",
+      },
+      {
       name: "Dall-e",
       description:
         "A web platform that allows users to search, generate and post high-quality images based on English text descriptions using OpenAI.",
