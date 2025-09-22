@@ -115,6 +115,20 @@ import {
   ];
   
   const experiences = [
+      {
+          title: "Software Engineer",
+          company_name: "Treedis",
+          icon: treedis,
+          iconBg: "#ffff",
+          date: "June 2024 - Present",
+          points: [
+              "Integrated navigation through 3D virtual tours.",
+              "Refactored user registration flows, contributing to a reliable register and login experience.",
+              "Created and maintained database migration scripts to support scalable backend changes.",
+              "Designed and integrated responsive email templates using Postmark for consistent transactional messaging.",
+              "Integrated UserGuiding to deliver personalized onboarding experiences based on user data.",
+          ],
+      },
     {
       title: "Frontend Developer",
       company_name: "WDH consulting",
