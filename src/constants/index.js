@@ -225,6 +225,23 @@ import {
       source_code_link: "https://github.com/Gifuto/travel-app",
     },
       {
+          name: "Physics",
+          description:
+              "A real-time, interactive physics simulation project that brings virtual objects to life using gravity, collisions, springs, and forces. Perfect for games, or interactive art.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: physics,
+          source_code_link: "https://github.com/Gifuto/scroll-based-animation",
+      },
+      {
           name: "Scroll Animation",
           description:
               "A visually rich scroll-driven animation project that transforms static web pages into immersive, interactive experiences. As the user scrolls, 2D and 3D elements animate.",
