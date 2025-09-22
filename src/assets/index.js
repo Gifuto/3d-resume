@@ -39,6 +39,7 @@ import particles from "./particles.png"
 import galaxyGenerator from "./galaxyGenerator.png"
 import scrollBasedAnimation from "./scrollBasedAnimation.png"
 import physics from "./physics.png"
+import importedModels from "./importedModels.gif"
 
 export {
   logo,
