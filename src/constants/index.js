@@ -134,7 +134,7 @@ import {
       company_name: "WDH consulting",
       icon: wdhConsulting,
       iconBg: "#50ad20",
-      date: "Apr 2023 - Present",
+      date: "Apr 2023 - June 2024",
       points: [
         "Developed and maintained responsive web applications using Next.js.", 
         "Implemented theme changes with SCSS.",
