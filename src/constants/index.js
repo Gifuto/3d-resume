@@ -167,6 +167,23 @@ import {
   
   const projects = [
       {
+          name: "Animated Galaxy",
+          description:
+              "An interactive 3D galaxy simulation rendered in the browser, where thousands of stars swirl, orbit, and glow in real time. Built with Three.js, shaders, optional physics for orbital motion.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: animatedGalaxy,
+          source_code_link: "https://github.com/Gifuto/animated-galaxy",
+      },
+      {
           name: "Raging Sea",
           description:
               "A real-time ocean simulation rendered in the browser using Three.js and custom shaders. It creates a dynamic, raging sea with waves, foam, reflections, and interactive controls.",
