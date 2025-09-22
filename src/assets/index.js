@@ -41,6 +41,7 @@ import scrollBasedAnimation from "./scrollBasedAnimation.png"
 import physics from "./physics.png"
 import importedModels from "./importedModels.gif"
 import ragingSea from "./ragingSea.gif"
+import animatedGalaxy from "./animatedGalaxy.gif"
 
 export {
   logo,
