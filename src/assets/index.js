@@ -68,6 +68,7 @@ export {
   jobit,
   tripguide,
   travelApp,
+  particles,
   jobs,
   musk,
   durov,
