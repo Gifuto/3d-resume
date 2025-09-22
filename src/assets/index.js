@@ -37,6 +37,7 @@ import travelApp from "./travelApp.png"
 import animeSearcher from "./animeSearcher.png"
 import particles from "./particles.png"
 import galaxyGenerator from "./galaxyGenerator.png"
+import scrollBasedAnimation from "./scrollBasedAnimation.png"
 
 export {
   logo,
