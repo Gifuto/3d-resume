@@ -172,6 +172,23 @@ import {
   
   const projects = [
       {
+          name: "Earth",
+          description:
+              "A beautiful, high-performance digital Earth that feels alive — oceans shimmer, clouds drift, lights glow at night, and the atmosphere scatters sunlight realistically",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: earth,
+          source_code_link: "https://github.com/Gifuto/earth-shaders",
+      },
+      {
           name: "Coffee smoke",
           description:
               "A real-time 3D simulation of steam rising from a cup of coffee. This project blends procedural noise to mimic natural smoke movement.",
