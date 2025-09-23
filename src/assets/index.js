@@ -48,6 +48,7 @@ import earth from "./earth.gif"
 import cursorAnimation from "./cursorAnimation.gif"
 import particleShip from "./particleShip.gif"
 import proceduralTerrain from "./proceduralTerrain.gif"
+import hauntedHouse from "./hauntedHouse.gif"
 
 export {
   logo,
