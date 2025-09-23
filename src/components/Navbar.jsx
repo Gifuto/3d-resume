@@ -30,7 +30,7 @@ const Navbar = () => {
           <p 
             className="text-white text-[18px] font-bold cursor-pointer flex"
           >
-            Bogdan &nbsp; <span className="sm:block hidden">| Frontend Dev</span>
+            Bogdan &nbsp; <span className="sm:block hidden">| Software Engineer</span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
