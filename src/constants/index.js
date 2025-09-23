@@ -295,6 +295,23 @@ import {
           image: stickerSmash,
           source_code_link: "https://github.com/Gifuto/sticker-smash",
       },
+      {
+          name: "Cursor Animation",
+          description:
+              "Turn your cursor into a particle-driven interactive canvas powered by the GPU. Thousands of glowing points respond instantly to every movement.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: cursorAnimation,
+          source_code_link: "https://github.com/Gifuto/particles-cursor-animation-shader",
+      },
     {
       name: "Travel App",
       description:
