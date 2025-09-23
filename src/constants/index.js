@@ -34,6 +34,7 @@ import {
     coffeeSmoke,
     hologram,
     earth,
+    cursorAnimation,
 } from "../assets";
   
   export const navLinks = [
