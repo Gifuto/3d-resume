@@ -28,7 +28,7 @@ import {
     galaxyGenerator,
     scrollBasedAnimation,
     physics,
-    importedModels, ragingSea, animatedGalaxy,
+    importedModels, ragingSea, animatedGalaxy, coffeeSmoke,
 } from "../assets";
   
   export const navLinks = [
@@ -166,6 +166,23 @@ import {
   ];
   
   const projects = [
+      {
+          name: "Coffee smoke",
+          description:
+              "A real-time 3D simulation of steam rising from a cup of coffee. This project blends procedural noise to mimic natural smoke movement.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: coffeeSmoke,
+          source_code_link: "https://github.com/Gifuto/coffee-smoke-shader",
+      },
       {
           name: "Animated Galaxy",
           description:
