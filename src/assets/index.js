@@ -42,6 +42,7 @@ import physics from "./physics.png"
 import importedModels from "./importedModels.gif"
 import ragingSea from "./ragingSea.gif"
 import animatedGalaxy from "./animatedGalaxy.gif"
+import coffeeSmoke from "./coffeeSmoke.gif"
 
 export {
   logo,
@@ -79,6 +80,7 @@ export {
   scrollBasedAnimation,
   importedModels,
   ragingSea,
+  coffeeSmoke,
   animatedGalaxy,
   physics,
   jobs,
