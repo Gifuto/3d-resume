@@ -388,6 +388,23 @@ import {
           source_code_link: "https://github.com/Gifuto/imported-models",
       },
       {
+          name: "Haunted House",
+          description:
+              "A real-time 3D haunted house scene, complete with spooky atmosphere, procedural lighting, animated fog, and interactive horror elements.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: hauntedHouse,
+          source_code_link: "https://github.com/Gifuto/haunted-house",
+      },
+      {
           name: "Physics",
           description:
               "A real-time, interactive physics simulation project that brings virtual objects to life using gravity, collisions, springs, and forces. Perfect for games, or interactive art.",
