@@ -28,7 +28,11 @@ import {
     galaxyGenerator,
     scrollBasedAnimation,
     physics,
-    importedModels, ragingSea, animatedGalaxy, coffeeSmoke,
+    importedModels,
+    ragingSea,
+    animatedGalaxy,
+    coffeeSmoke,
+    hologram,
 } from "../assets";
   
   export const navLinks = [
