@@ -43,6 +43,7 @@ import importedModels from "./importedModels.gif"
 import ragingSea from "./ragingSea.gif"
 import animatedGalaxy from "./animatedGalaxy.gif"
 import coffeeSmoke from "./coffeeSmoke.gif"
+import hologram from "./hologram.gif"
 
 export {
   logo,
