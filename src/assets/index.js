@@ -94,6 +94,7 @@ export {
   particleShip,
   proceduralTerrain,
   physics,
+  hauntedHouse,
   jobs,
   musk,
   durov,
