@@ -175,6 +175,23 @@ import {
   
   const projects = [
       {
+          name: "Procedural Terrain",
+          description:
+              "Generate infinite, living landscapes directly in the browser. From rolling hills to jagged mountains, rivers, and deserts — all created with procedural algorithms.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: proceduralTerrain,
+          source_code_link: "https://github.com/Gifuto/procedural-terrain-shader",
+      },
+      {
           name: "Particle Ship",
           description:
               "Create mesmerizing flow field animations powered by the GPU. Particles drift, swirl, and dance through procedural noise fields with smooth, organic motion.",
