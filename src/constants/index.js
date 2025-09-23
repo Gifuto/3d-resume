@@ -36,6 +36,7 @@ import {
     earth,
     cursorAnimation,
     particleShip,
+    proceduralTerrain,
 } from "../assets";
   
   export const navLinks = [
