@@ -81,6 +81,7 @@ export {
   scrollBasedAnimation,
   importedModels,
   ragingSea,
+  hologram,
   coffeeSmoke,
   animatedGalaxy,
   physics,
