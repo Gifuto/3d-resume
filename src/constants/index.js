@@ -33,6 +33,7 @@ import {
     animatedGalaxy,
     coffeeSmoke,
     hologram,
+    earth,
 } from "../assets";
   
   export const navLinks = [
