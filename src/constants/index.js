@@ -174,6 +174,23 @@ import {
   
   const projects = [
       {
+          name: "Particle Ship",
+          description:
+              "Create mesmerizing flow field animations powered by the GPU. Particles drift, swirl, and dance through procedural noise fields with smooth, organic motion.",
+          tags: [
+              {
+                  name: "javascript",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "three.js",
+                  color: "green-text-gradient",
+              },
+          ],
+          image: particleShip,
+          source_code_link: "https://github.com/Gifuto/gpgpu-flow-field-particles-shaders",
+      },
+      {
           name: "Earth",
           description:
               "A beautiful, high-performance digital Earth that feels alive — oceans shimmer, clouds drift, lights glow at night, and the atmosphere scatters sunlight realistically",
