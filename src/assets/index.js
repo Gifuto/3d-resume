@@ -46,6 +46,7 @@ import coffeeSmoke from "./coffeeSmoke.gif"
 import hologram from "./hologram.gif"
 import earth from "./earth.gif"
 import cursorAnimation from "./cursorAnimation.gif"
+import particleShip from "./particleShip.gif"
 
 export {
   logo,
