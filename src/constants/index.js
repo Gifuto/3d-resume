@@ -35,6 +35,7 @@ import {
     hologram,
     earth,
     cursorAnimation,
+    particleShip,
 } from "../assets";
   
   export const navLinks = [
