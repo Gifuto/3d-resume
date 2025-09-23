@@ -243,6 +243,27 @@ import {
       source_code_link: "https://github.com/Gifuto/dall-e",
     },
       {
+          name: "Hologram",
+          description:
+              "A real-time holographic effect simulation where 3D models appear as glowing. The hologram shimmers with scan lines, glitches, making digital objects feel futuristic.",
+          tags: [
+              {
+                  name: "react",
+                  color: "blue-text-gradient",
+              },
+              {
+                  name: "mongodb",
+                  color: "green-text-gradient",
+              },
+              {
+                  name: "tailwind",
+                  color: "pink-text-gradient",
+              },
+          ],
+          image: hologram,
+          source_code_link: "https://github.com/Gifuto/hologram-shader",
+      },
+      {
           name: "Sticker Smash",
           description:
               "A mobile app built with React Native that makes it delightfully easy for anyone to decorate their photos with stickers, quickly share them, and save polished edits.",
