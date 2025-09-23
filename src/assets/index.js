@@ -47,6 +47,7 @@ import hologram from "./hologram.gif"
 import earth from "./earth.gif"
 import cursorAnimation from "./cursorAnimation.gif"
 import particleShip from "./particleShip.gif"
+import proceduralTerrain from "./proceduralTerrain.gif"
 
 export {
   logo,
