@@ -212,7 +212,7 @@ import {
       {
           name: "Earth",
           description:
-              "A beautiful, high-performance digital Earth that feels alive — oceans shimmer, clouds drift, lights glow at night, and the atmosphere scatters sunlight realistically",
+              "A beautiful, high-performance digital Earth that feels alive — oceans shimmer, clouds drift, lights glow at night, and the atmosphere scatters sunlight realistically.",
           tags: [
               {
                   name: "javascript",
