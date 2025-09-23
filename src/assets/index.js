@@ -45,6 +45,7 @@ import animatedGalaxy from "./animatedGalaxy.gif"
 import coffeeSmoke from "./coffeeSmoke.gif"
 import hologram from "./hologram.gif"
 import earth from "./earth.gif"
+import cursorAnimation from "./cursorAnimation.gif"
 
 export {
   logo,
