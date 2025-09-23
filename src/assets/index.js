@@ -91,6 +91,7 @@ export {
   coffeeSmoke,
   animatedGalaxy,
   particleShip,
+  proceduralTerrain,
   physics,
   jobs,
   musk,
