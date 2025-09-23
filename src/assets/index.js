@@ -89,6 +89,7 @@ export {
   hologram,
   coffeeSmoke,
   animatedGalaxy,
+  particleShip,
   physics,
   jobs,
   musk,
