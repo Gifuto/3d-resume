@@ -248,16 +248,12 @@ import {
               "A real-time holographic effect simulation where 3D models appear as glowing. The hologram shimmers with scan lines, glitches, making digital objects feel futuristic.",
           tags: [
               {
-                  name: "react",
+                  name: "javascript",
                   color: "blue-text-gradient",
               },
               {
-                  name: "mongodb",
+                  name: "three.js",
                   color: "green-text-gradient",
-              },
-              {
-                  name: "tailwind",
-                  color: "pink-text-gradient",
               },
           ],
           image: hologram,
