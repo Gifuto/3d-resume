@@ -37,6 +37,7 @@ import {
     cursorAnimation,
     particleShip,
     proceduralTerrain,
+    hauntedHouse,
 } from "../assets";
   
   export const navLinks = [
