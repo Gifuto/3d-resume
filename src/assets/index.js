@@ -73,6 +73,7 @@ export {
   nextjs,
   redux,
   tailwind,
+  mui,
   typescript,
   threejs,
   treedis,
