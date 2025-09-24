@@ -90,9 +90,17 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Next JS",
+      icon: nextjs,
     },
+    {
+       name: "Three JS",
+       icon: threejs,
+    },
+    {
+       name: "MUI",
+       icon: mui,
+      },
     {
       name: "Tailwind CSS",
       icon: tailwind,
