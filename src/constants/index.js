@@ -114,8 +114,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "Redux Toolkit",
+      icon: redux,
     },
     {
       name: "git",
