@@ -38,6 +38,8 @@ import {
     particleShip,
     proceduralTerrain,
     hauntedHouse,
+    mui,
+    nextjs,
 } from "../assets";
   
   export const navLinks = [
